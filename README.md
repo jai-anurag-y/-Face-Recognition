@@ -1,2 +1,2 @@
-# -Face-Recognition
+# Face-Recognition
 Convolutional Neural Networks | Deep Learning
